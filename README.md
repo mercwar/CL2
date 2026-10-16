@@ -8,7 +8,7 @@
 
 </div>
 
-# 🚀 Cyborg Live 2 (CL2): The Ultimate Sovereign Telemetry Terminal
+##### 🧬️ Cyborg Live 2 (CL2): The Ultimate Sovereign Telemetry Terminal
 
   <a target="_self" title="CLICK HERE to ENTER NEXUS FREE!" href="https://cron.iblogger.org/NEXUS">
     <img src="images/nex-cl2.png" alt="Mercwar NEXUS Gateway" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #00F2FF; box-shadow: 0 0 15px rgba(0, 242, 255, 0.3);" />
@@ -16,7 +16,7 @@
 
 #
 
-# ⚡ CYBORG LIVE 2 (CL2)
+##### 🌈️ CYBORG LIVE 2 (CL2)
 ### Advanced AVIS Protocol Telemetry Terminal & Repository Explorer
 
 ---
@@ -26,7 +26,7 @@
 
 ---
 
-## 🧬 SYSTEM CAPABILITIES
+## 🔥️ SYSTEM CAPABILITIES
 
 * **High-Throughput Inspection** :: Streamlined multi-repository tracking and deep directory scanning.
 * **Real-Time Rendering** :: Native Markdown and GitHub Flavored Markdown (GFM) translation matrix.
