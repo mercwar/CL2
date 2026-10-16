@@ -18,11 +18,10 @@
 * **Local Offline Power:** Download [CL2.zip](https://github.com/mercwar/CL2/raw/refs/heads/main/CL2.zip) to deploy locally on your Apache/PHP stack.
 
 <div align="center">
-
-
   <a target="_self" title="CLICK HERE to ENTER CL2 FREE!" href="https://cron.iblogger.org/CL2">
     <img src="images/cl201.jpg" alt="Mercwar CL2 Gateway" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #00F2FF; box-shadow: 0 0 15px rgba(0, 242, 255, 0.3);" />
   </a>
+
 
   <br />
 
@@ -34,6 +33,12 @@
 
 ## 🌐 Instant Cloud Access vs. Local Sovereign Deployment
 
+
+
+  <a target="_self" title="CLICK HERE to ENTER CL2 FREE!" href="https://cron.iblogger.org/CL2">
+    <img src="images/cl2.jpg" alt="Mercwar CL2 Gateway" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #00F2FF; box-shadow: 0 0 15px rgba(0, 242, 255, 0.3);" />
+  </a>
+  
 You don't even need to download a zip file or clone a repository to experience the raw power of Cyborg Live 2. CL2 is fully hosted and ready for immediate deployment in the cloud at **[cron.iblogger.org/CL2](https://cron.iblogger.org/CL2)**. Simply open the link in any WebGL2-compliant browser to instantly access the telemetry terminal, inspect remote GitHub repositories, and navigate the AVIS ecosystem without touching a single configuration file.
 
 However, for elite systems architects and sovereign developers who demand complete local control over their file trees and drives, CL2 can be deployed right on your bare metal:
@@ -46,9 +51,8 @@ However, for elite systems architects and sovereign developers who demand comple
 ## ⚡ Core Features
 
 <div align="center">
-
   <a target="_self" title="CLICK HERE to ENTER CL2 FREE!" href="https://cron.iblogger.org/CL2">
-    <img src="images/cl2.jpg" alt="Mercwar CL2 Gateway" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #00F2FF; box-shadow: 0 0 15px rgba(0, 242, 255, 0.3);" />
+    <img src="images/image.png" alt="Mercwar CL2 Gateway" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #00F2FF; box-shadow: 0 0 15px rgba(0, 242, 255, 0.3);" />
   </a>
 
 </div>
@@ -78,15 +82,14 @@ However, for elite systems architects and sovereign developers who demand comple
 
 <div align="center">
 
-  <a target="_self" title="CLICK HERE to ENTER CL2 FREE!" href="https://cron.iblogger.org/CL2">
-    <img src="images/cl2-ss.jpg" alt="Mercwar CL2 Screenshot" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #00F2FF; box-shadow: 0 0 15px rgba(0, 242, 255, 0.3);" />
-  </a>
+
 
 </div>
 
 <br />
 
 Follow these steps to deploy and launch your local Cyborg Live 2 terminal environment:
+
 
 
 1. **Clone or Download the Repository**
@@ -108,7 +111,9 @@ Open your favorite WebGL2-compliant browser (Chrome, Firefox, Edge) and navigate
 http://localhost:8080/CL2/index.php
 ```
 
-
+  <a target="_self" title="CLICK HERE to ENTER CL2 FREE!" href="https://cron.iblogger.org/CL2">
+    <img src="images/cl2-ss.jpg" alt="Mercwar CL2 Screenshot" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #00F2FF; box-shadow: 0 0 15px rgba(0, 242, 255, 0.3);" />
+  </a>
 
 4. **Initialize Live Load & Auto-Routing**
 Upon opening, the terminal automatically executes the **Live Load** protocol, detecting your workspace structure, defaulting to the **Stargate** repository, and instantly rendering your root `README.md` file with zero manual clicking required.
