@@ -14,7 +14,24 @@
     <img src="images/nex-cl2.png" alt="Mercwar NEXUS Gateway" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #00F2FF; box-shadow: 0 0 15px rgba(0, 242, 255, 0.3);" />
   </a>
 
+#
+
+# ⚡ CYBORG LIVE 2 (CL2)
+### Advanced AVIS Protocol Telemetry Terminal & Repository Explorer
+
+---
+
+## 🛰️ OVERVIEW
 **Cyborg Live 2 (CL2)** is an advanced AVIS protocol telemetry terminal and repository explorer. Engineered for high-throughput source code inspection, real-time Markdown/GFM document rendering, and low-level WebGL 3D scene visualizations, CL2 bridges local filesystem development with remote GitHub server infrastructure into a unified cyberpunk control console.
+
+---
+
+## 🧬 SYSTEM CAPABILITIES
+
+* **High-Throughput Inspection** :: Streamlined multi-repository tracking and deep directory scanning.
+* **Real-Time Rendering** :: Native Markdown and GitHub Flavored Markdown (GFM) translation matrix.
+* **Low-Level Visualization** :: Core WebGL integration for processing immersive 3D scene arrays.
+* **Unified Console Interface** :: Seamless fallback and routing between local filesystems and remote GitHub nodes.
 
 
 
