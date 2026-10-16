@@ -10,6 +10,10 @@
 
 # 🚀 Cyborg Live 2 (CL2): The Ultimate Sovereign Telemetry Terminal
 
+  <a target="_self" title="CLICK HERE to ENTER NEXUS FREE!" href="https://cron.iblogger.org/NEXUS">
+    <img src="images/nex-cl2.png" alt="Mercwar NEXUS Gateway" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #00F2FF; box-shadow: 0 0 15px rgba(0, 242, 255, 0.3);" />
+  </a>
+
 **Cyborg Live 2 (CL2)** is an advanced AVIS protocol telemetry terminal and repository explorer. Engineered for high-throughput source code inspection, real-time Markdown/GFM document rendering, and low-level WebGL 3D scene visualizations, CL2 bridges local filesystem development with remote GitHub server infrastructure into a unified cyberpunk control console.
 
 
