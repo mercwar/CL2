@@ -1,20 +1,29 @@
-# 🚀 Cyborg Live 2 (CL2): The Ultimate Sovereign Telemetry Terminal
+<div align="center">
 
-```
-               _  _____   ____  _____   _____   _      _______     ______ 
-              | |/ ____| / __ \|  __ \ / ____| | |    |_   _\ \   / /  __|
-  ___ _   _ _| | (___  | |  | | |__) | |  __  | |      | |  \ \_/ /| |__  
- / __| | | / _` |\___ \ | |  | |  _  /| | |_ | | |      | |   \   / |  __| 
-| (__| |_| | (_| |____) || |__| | | \ \| |__| | | |____ _| |_   | |  | |____
- \___|\__, |\__,_|_____/  \____/|_|  \_\\_____| |______|_____|  |_|  |______|
-       __/ |                                                                
-      |___/                                                                 
+  <!-- Gateway Banner -->
+  <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
+    <img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/refs/heads/main/Version%207/image_d2a07390.png" alt="Mercwar Constellation Gateway" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #00F2FF; box-shadow: 0 0 15px rgba(0, 242, 255, 0.3);" />
+  </a>
+    </div>
+    
+  # 🚀 Cyborg Live 2 (CL2): The Ultimate Sovereign Telemetry Terminal
+  
+###### **Cyborg Live 2 (CL2)** is an advanced AVIS protocol telemetry terminal and repository explorer. Engineered for high-throughput source code inspection, real-time Markdown/GFM document rendering, and low-level WebGL 3D scene visualizations, CL2 bridges local filesystem development with remote GitHub server infrastructure into a unified cyberpunk control console.
 
-```
+<div align="center">
+   <a target="_self" title="CLICK HERE to ENTER CL2 FREE!" href="https://cron.iblogger.org/CL2">
+    <img src="images/cl2.jpg" alt="Mercwar CL2 Gateway" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #00F2FF; box-shadow: 0 0 15px rgba(0, 242, 255, 0.3);" />
+  </a>
 
-**Cyborg Live 2 (CL2)** is an advanced AVIS protocol telemetry terminal and repository explorer. Engineered for high-throughput source code inspection, real-time Markdown/GFM document rendering, and low-level WebGL 3D scene visualizations, CL2 bridges local filesystem development with remote GitHub server infrastructure into a unified cyberpunk control console.
+  </div>
+    
+
 
 ---
+
+
+
+
 
 ## 🌐 Instant Cloud Access vs. Local Sovereign Deployment
 
@@ -28,7 +37,10 @@ However, for elite systems architects and sovereign developers who demand comple
 ---
 
 ## ⚡ Core Features
-
+  <br />
+    <a target="_self" title="CLICK HERE to ENTER CL2 FREE!" href="https://cron.iblogger.org/CL2">
+    <img src="images/cl2-ss.jpg" alt="Mercwar CL2 Gateway" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #00F2FF; box-shadow: 0 0 15px rgba(0, 242, 255, 0.3);" />
+  </a>
 * **Dual Environment Routing:** Seamlessly hot-swap between local file scanning (`php.php`) and remote GitHub API server integration (`git.php`).
 * **DirectX-Style Low-Level WebGL Engine:** Integrated GPU pipeline (`dx.js`) featuring vertex displacement shaders, Simplex noise mesh deformation, post-processing chromatic aberration, and particle streak dynamics.
 * **Smart Markdown Asset Resolution:** Automatically resolves relative image paths, raw GitHub asset streams (`refs/heads`), and inline media tags without path duplication.
