@@ -39,10 +39,40 @@
     <img src="images/cl2.jpg" alt="Mercwar CL2 Gateway" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #00F2FF; box-shadow: 0 0 15px rgba(0, 242, 255, 0.3);" />
   </a>
   
-You don't even need to download a zip file or clone a repository to experience the raw power of Cyborg Live 2. CL2 is fully hosted and ready for immediate deployment in the cloud at **[cron.iblogger.org/CL2](https://cron.iblogger.org/CL2)**. Simply open the link in any WebGL2-compliant browser to instantly access the telemetry terminal, inspect remote GitHub repositories, and navigate the AVIS ecosystem without touching a single configuration file.
+## 🌐 Instant Cloud Access vs. Local Sovereign Deployment
+
+You don't even need to download a zip file or clone a repository to experience the raw power of Cyborg Live 2. CL2 is fully hosted and ready for immediate deployment in the cloud at **[cron.iblogger.org/CL2](https://cron.iblogger.org/CL2)**[cite: 3]. Simply open the link in any WebGL2-compliant browser to instantly access the telemetry terminal, inspect remote GitHub repositories, and navigate the AVIS ecosystem without touching a single configuration file[cite: 3].
+
+<br />
+
+<div align="center">
+  <table style="width:100%; border-collapse: collapse; border: 1px solid rgba(0, 242, 255, 0.3); background: rgba(6, 4, 8, 0.8);">
+    <thead>
+      <tr style="border-bottom: 1px solid rgba(0, 242, 255, 0.3); background: rgba(0, 242, 255, 0.05);">
+        <th style="padding: 12px; text-align: left; font-family: monospace; color: #00F2FF; font-size: 13px;">☁️ Cloud Access Mode (Zero Friction)</th>
+        <th style="padding: 12px; text-align: left; font-family: monospace; color: #FFD700; font-size: 13px;">⚙️ Local Sovereign Deployment (Bare-Metal Control)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 12px; vertical-align: top; border-right: 1px solid rgba(0, 242, 255, 0.2); font-size: 12px; color: #cbd5e1; font-family: monospace;">
+          • <b>Instant Execution:</b> Zero installation, configuration, or server setup required.<br/><br/>
+          • <b>Remote Telemetry:</b> Seamlessly query and inspect remote GitHub repositories on the fly.<br/><br/>
+          • <b>Global Access:</b> Launch straight from your browser anywhere via <a href="https://cron.iblogger.org/CL2" style="color: #00F2FF;">cron.iblogger.org/CL2</a>[cite: 3].
+        </td>
+        <td style="padding: 12px; vertical-align: top; font-size: 12px; color: #cbd5e1; font-family: monospace;">
+          • <b>Bare-Metal Freedom:</b> Full ownership and control over your local file trees and disk drives.<br/><br/>
+          • <b>Environment Stack:</b> Requires a local web server configured with <b>Apache</b> and <b>PHP 8.x</b>.<br/><br/>
+          • <b>Source Acquisition:</b> Download the official workspace package and launch via <code style="color: #FFD700;">http://localhost:8080/CL2/index.php</code>.
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<br />
 
 However, for elite systems architects and sovereign developers who demand complete local control over their file trees and drives, CL2 can be deployed right on your bare metal:
-
 * **Local Environment Requirements:** To run the application locally, you will need a running local web server environment configured with **Apache** and **PHP 8.x** (such as XAMPP or an MSYS2 UCRT64 toolchain setup).
 * **Source Acquisition:** Download the official **Mercwar** application workspace package [CL2.zip](https://github.com/mercwar/CL2/raw/refs/heads/main/CL2.zip), extract it into your local web root directory (e.g., `C:/MercwarAI/CL2/`), and launch your local endpoint via `http://localhost:8080/CL2/index.php`.
 
