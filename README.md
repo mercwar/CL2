@@ -12,6 +12,8 @@
 
 **Cyborg Live 2 (CL2)** is an advanced AVIS protocol telemetry terminal and repository explorer. Engineered for high-throughput source code inspection, real-time Markdown/GFM document rendering, and low-level WebGL 3D scene visualizations, CL2 bridges local filesystem development with remote GitHub server infrastructure into a unified cyberpunk control console.
 
+
+
 ### ⚡ What That Means For You:
 * **Zero Lag:** Browse GitHub repositories at extreme speed without page flickering or slow load times.
 * **Instant Discovery:** Find your target source files instantly without paging through menus.
@@ -71,8 +73,14 @@ You don't even need to download a zip file or clone a repository to experience t
 </div>
 
 <br />
+  <a target="_self" title="CLICK HERE to ENTER CL2 FREE!" href="https://cron.iblogger.org/CL2">
+    <img src="images/Gemini_Generated_Image_9xdukr9xdukr9xdu.jpg" alt="Mercwar CL2 Gateway" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #00F2FF; box-shadow: 0 0 15px rgba(0, 242, 255, 0.3);" />
+  </a>
+  
+###### 🌈 However, for elite systems architects and sovereign developers who demand complete local control over their file trees and drives.
 
-However, for elite systems architects and sovereign developers who demand complete local control over their file trees and drives, CL2 can be deployed right on your bare metal:
+💥 CL2 can be deployed right on your bare metal:
+
 * **Local Environment Requirements:** To run the application locally, you will need a running local web server environment configured with **Apache** and **PHP 8.x** (such as XAMPP or an MSYS2 UCRT64 toolchain setup).
 * **Source Acquisition:** Download the official **Mercwar** application workspace package [CL2.zip](https://github.com/mercwar/CL2/raw/refs/heads/main/CL2.zip), extract it into your local web root directory (e.g., `C:/MercwarAI/CL2/`), and launch your local endpoint via `http://localhost:8080/CL2/index.php`.
 
